@@ -1,0 +1,42 @@
+.custom-paragraph {
+    font-size: 18px;
+    line-height: 1.6;
+    color: #333;
+    background-color: #edf6f9;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+  }
+  .custom-title {
+    font-size: 18px;
+    font-weight: bold;
+    color: #008080;
+    text-align: center;
+    margin-bottom: 20px;
+    text-transform: uppercase;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
+  }
+  .custom-image {
+    max-width: 100%;
+    width: 400px; 
+    height: 250px; 
+    border: 2px solid #008080;
+    border-radius: 2px;
+    margin-bottom: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+  }
+  .main-title {
+    font-size: 48px;
+    font-weight: bold;
+    color: #333;
+    text-align: center;
+    margin: 40px 0;
+    text-transform: uppercase;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
+  }
+  .custom-card-img {
+    width: 200px; 
+    height: 150px; 
+    object-fit: cover;
+    border-radius: 10px; 
+  }
